@@ -1,0 +1,5 @@
+ar = [[1, 2], [2, 3]]
+
+print(ar[0])        # First row
+print(ar[1])        # Second row
+print(type(ar[0]))  # Type of first row
