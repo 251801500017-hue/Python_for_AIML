@@ -1,0 +1,7 @@
+a = [1, 2, 3, 4, 5]
+
+print(a)          # Whole list
+print(a[0])       # First element
+print(a[1])       # Second element
+print(type(a))    # Type of list
+print(type(a[0])) # Type of element
